@@ -2,7 +2,6 @@
 
 **AI DocParser** is an AI-powered document parsing tool designed to extract, process, and analyze data from various document formats. It leverages state-of-the-art machine learning models to **automate** the processing of structured and unstructured data.
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Visit%20Project-blue?logo=kaggle)](https://www.kaggle.com/code/sitama/ai-docparser)
 
 ## Example
 
